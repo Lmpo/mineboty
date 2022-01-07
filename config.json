@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
- "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "ip": "Prashik0.aternos.me",
+ "port": "62725",
+ "name": "Herobrine",
+ "auto-night-skip": "true",
+ "loginmsg": "hii",
  "prefix": "!",
- "version": "1.17.1"
+ "version": "1.17"
 }
